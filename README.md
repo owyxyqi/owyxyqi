@@ -1,6 +1,8 @@
 # 💫About Me :
 I am currently working on: creating a web application for managing clusters in a local network.
+
 I want to collaborate in: developing open-source projects in Python.
+
 I am currently studying: basics of machine learning, neural networks, C++, HTML and CSS, JavaScript, Rust
 
 # 💻Tech Stack
